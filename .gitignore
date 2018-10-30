@@ -12,6 +12,11 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+.db/schema.rb
+.idea/
+.ruby-version
+vendor/bundle/
+Gemfile.lock
 
 # Ignore Byebug command history file.
 .byebug_history
